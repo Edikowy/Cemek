@@ -1,0 +1,134 @@
+html, body {
+    color: #180707;
+    background-color:#DECD9C;
+}
+
+.zero {
+    width: 1220px;
+    min-height: 800px;
+    margin: 6px auto; 
+    padding:10px;
+    border-radius: 14px; 
+    box-shadow: 3px -3px 7px 2px;
+}
+
+.jeden {
+    width: 1210px;
+    min-height: 740px;
+    padding: 4px;
+    border-radius: 14px;
+    box-shadow: 3px 3px 7px 2px;
+}
+
+/* DACH */
+.dach {
+    height: 100px;
+    text-align: center;
+    margin:  8px 4px 4px 4px;
+    border-radius: 14px;
+    box-shadow: 2px -2px 2px 1px ;
+    text-decoration: none;
+}
+
+.lewy {
+    width: 200px;
+    padding: 6px;
+    font-size: 16px;
+    float: left;
+}
+
+.center {
+    width: 200px;
+    padding: 6px;
+    font-size: 16px;
+    
+}
+
+.prawy {
+    padding: 6px;
+    font-size: 16px;
+    width: 200px;
+    float: right;
+}
+/* DACH */
+
+/* LINKI */
+.linki {
+    height: 40px; 
+    margin:  8px 4px 4px 4px;
+    padding: 10px;
+    font-size: 32px;
+    text-align: center;
+    border-radius: 14px; 
+    box-shadow: 2px -2px 2px 1px ;
+    display: flex;
+    justify-content: space-around;
+}
+.linki a {
+    text-decoration: none;
+}
+/* LINKI */
+
+/* CENTRAL */
+.central {
+    min-height: 780px;
+    margin:  8px 4px 4px 4px;
+    border-radius: 14px;
+    box-shadow: 2px -2px 2px 1px ;
+}
+
+.sekcja {
+    width: 180px;
+    min-height: 400px;
+    margin:  8px 4px 4px 4px;
+    border-radius: 14px;
+    box-shadow: 2px -2px 2px 1px ;
+    float: left;
+}
+
+.spis {
+    width: 1000px;
+    min-height: 300px;
+    margin:  8px 4px 4px 4px;
+    border-radius: 14px;
+    box-shadow: 2px -2px 2px 1px ;
+    float: left;
+}
+
+.artykul {
+    width: 496px;
+    min-height: 100px;
+    margin:  8px 4px 4px 4px;
+    border-radius: 14px;
+    box-shadow: 2px -2px 2px 1px ;
+    float: left;
+}
+/* CENTRAL */
+/* STOPKA */
+.stopka {
+    height: 26px;
+    text-align: center;
+    margin:  8px 4px 4px 4px;
+    border-radius: 14px;
+    box-shadow: 2px -2px 2px 1px ;
+}
+
+/* BELKA */
+
+
+.belka {
+     min-height: 12px;
+     text-align: center;
+     margin: 6px;
+     border-radius: 14px;
+     box-shadow: 2px -2px 2px 1px ;
+}
+
+
+.karta {
+     min-height: 40px;
+     margin: 6px;
+     padding: 10px;
+     border-radius: 14px;
+     box-shadow: 2px -2px 2px 1px ;
+}

@@ -1,0 +1,56 @@
+#zegar {
+    padding: 10px;
+}
+
+#data {
+    font-size: 22px;
+    padding: 6px;
+    text-shadow: 2px 1px 3px;
+}
+
+#czas {
+    font-size: 22px;
+    padding: 6px;
+    text-shadow: 2px 1px 3px;
+}
+
+#logo {
+  font-size: 48px ;
+  text-shadow: 2px -3px 2px;
+}
+
+.k60 {
+   width: 200px;
+   height: 40px;
+   border-radius: 14px;
+   text-shadow: 2px 1px 3px;
+   box-shadow: 1px 1px 5px 2px #5332c9;
+}
+.k120 {
+   width: 200px;
+   height: 40px;
+   border-radius: 14px;
+   text-shadow: 2px 1px 3px;
+   box-shadow: 1px 1px 7px 2px #008100;
+}
+.k180 {
+   width: 200px;
+   height: 40px;
+   border-radius: 14px;
+   text-shadow: 2px 1px 3px;
+   box-shadow: 1px 1px 7px 1px #008181;
+}
+.k240 {
+   width: 200px;
+   height: 40px;
+   border-radius: 14px;
+   text-shadow: 2px 1px 3px;
+   box-shadow: 1px 1px 7px 3px #000081;
+}
+.k300 {
+   width: 200px;
+   height: 40px;
+   border-radius: 14px;
+   text-shadow: 2px 1px 3px;
+   box-shadow: 1px 1px 7px 3px #810081;
+}
